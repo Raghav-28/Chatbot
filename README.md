@@ -1,0 +1,1 @@
+It is the source code for the  interactive chatbot using Openai API . Just copy the all thee files and paste your api key in the designated place in js file and include the index.html file into your source code you see a icon on bottom right corner which toggles up and open your chatbot where you chat and ask questions.
